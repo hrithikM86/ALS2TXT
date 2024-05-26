@@ -19,6 +19,6 @@ Assignment : Test your Python, Numpy, Pandas and Matplotlib concepts
 - [W1_Assignment1 dataset](<./Week 1/countries.csv>)
 
 NOTE : 
-- You have to submit the Collab link of the assignment with comment acsess, the google form will be floated on the group
-- Do not use ChatGpt
+- You have to submit the Collab link of the assignment with comment access, the google form will be floated on the group
+- Do not use ChatGpt (as if this is going to stop you in doing so)
 - This applies for all further assignments

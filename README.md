@@ -38,3 +38,8 @@ This week, we will delve deeply into several machine learning frameworks that ha
 - [Pytorch](https://www.youtube.com/watch?v=c36lUUr864M)
 - [TensorFlow](https://www.youtube.com/watch?v=qFJeN9V1ZsI) : Another great library, It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks
 - [OpenCV](https://docs.google.com/document/d/1HX9g5l2dMwTdogGPgyKfhmnJCJIibecIfv_29fr3YaU/edit?usp=sharing)
+
+### [Week 4: Deep Diving into Computer Vision](<./Week 4/>)
+This week, we will get a foundational understanding of Computer Vision
+- [Introduction to Computer Vision and Image Processing](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
+- Apply for financial aid for these courses, and while applying, audit the course for free. Watch the videos at 2x speed; no need to complete assignments. By auditing the course, you can immediately access the videos for free without waiting for financial aid approval.

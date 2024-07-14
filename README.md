@@ -43,3 +43,11 @@ This week, we will delve deeply into several machine learning frameworks that ha
 This week, we will get a foundational understanding of Computer Vision
 - [Introduction to Computer Vision and Image Processing](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
 - Apply for financial aid for these courses, and while applying, audit the course for free. Watch the videos at 2x speed; no need to complete assignments. By auditing the course, you can immediately access the videos for free without waiting for financial aid approval.
+
+### [Final Project](<./Final Project/>)
+- [Dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset)
+- Part 1 : The task involves training a Convolutional Neural Network (CNN) model capable of recognizing American Sign Language (ASL) signs.
+- Please refer to the demo codes on Kaggle to get started with the Part 1 
+- Part 2 : Once trained, the model should be able to interpret signs from a continuous video stream, rather than processing one image at a time.
+- [Refrence](https://www.youtube.com/watch?v=doDUihpj6ro)
+- You can also search "sigh language detection" on YouTube to find other projects if the above seems difficult to implement. You are free to try things of your own.
